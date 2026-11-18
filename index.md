@@ -4,7 +4,7 @@ layout: default
 title: 首页
 ---
 
-# 品赫的机器人学习笔记
+# 机器人学习笔记
 
 **Embodied Intelligence · Robotics · Research**
 
@@ -14,7 +14,7 @@ title: 首页
 
 ---
 
-## 我的科研主页
+## 科研主页
 
 ### 📚 论文阅读与思考 | Paper Reading
 
