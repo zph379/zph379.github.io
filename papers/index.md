@@ -19,9 +19,21 @@ permalink: /papers/
 - 视觉语言模型（Vision-Language Models）
 - 运动规划与控制（Motion Planning & Control）
 
+---
+
 ## 论文阅读记录
 
-目前正在持续积累……
+### 1. AllTact Fin Ray: A Compliant Robot Gripper with Omni-Directional Tactile Sensing
+
+**研究主题：** 柔性机器人夹爪与全方向触觉感知
+
+这篇论文研究了一种结合 Fin Ray 柔性结构与视觉触觉传感的机器人夹爪，实现了全局形变重建、局部接触几何重建以及全方向接触检测。
+
+👉 [阅读我的论文笔记](/papers/alltact-fin-ray/)
+
+👉 [查看论文原文](https://arxiv.org/abs/2504.18064)
+
+---
 
 ## 阅读与思考目标
 
